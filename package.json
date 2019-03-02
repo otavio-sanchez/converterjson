@@ -1,0 +1,19 @@
+{
+  "name": "converterjson",
+  "version": "1.0.0",
+  "description": "convert json to csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otavio-sanchez/converterjson.git"
+  },
+  "author": "Otávio Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otavio-sanchez/converterjson/issues"
+  },
+  "homepage": "https://github.com/otavio-sanchez/coverterjson#readme"
+}
